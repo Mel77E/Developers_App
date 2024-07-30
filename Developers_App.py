@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-!pip install matplotlib
-pip install -r requirements.txt
+import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import numpy as np
